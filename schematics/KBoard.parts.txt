@@ -1,0 +1,161 @@
+Partlist
+
+Exported from K-Board.sch at 3/12/13 11:59 AM
+
+EAGLE Version 6.1.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value                     Device                    Package          Library               Sheet
+
+C1       GRM21BR71H105KA           CAP0805                   0805             BUG                   1
+C2       C5750X7S2A106M            CAP2220                   2220             BUG                   1
+C3       C0805C103K5RACTU          CAP0805                   0805             BUG                   1
+C4       150u                      CAP_POLD                  PANASONIC_D      BUG                   1
+C5       33u                       CAP_POLC                  PANASONIC_C      BUG                   1
+C6       100u                      CAP_POLD                  PANASONIC_D      BUG                   1
+C7       100u                      CAP_POLD                  PANASONIC_D      BUG                   1
+C8       100u                      CAP_POLD                  PANASONIC_D      BUG                   1
+C9       100u                      CAP_POLD                  PANASONIC_D      BUG                   1
+C10      0.1                       CAP0402-CAP               0402-CAP         BUG                   1
+C11      0.1                       CAP0402-CAP               0402-CAP         BUG                   1
+C12      0.1                       CAP0402-CAP               0402-CAP         BUG                   1
+C13      0.1                       CAP0402-CAP               0402-CAP         BUG                   1
+C14      0.1                       CAP0402-CAP               0402-CAP         BUG                   1
+C15      18p                       CAP0402-CAP               0402-CAP         BUG                   1
+C16      18p                       CAP0402-CAP               0402-CAP         BUG                   1
+C17      1                         CAP0402-CAP               0402-CAP         BUG                   1
+C18      0.1                       CAP0402-CAP               0402-CAP         BUG                   1
+C19      0.1                       CAP0402-CAP               0402-CAP         BUG                   1
+C20      0.1                       CAP0402-CAP               0402-CAP         BUG                   1
+C21      22n                       CAP0402-CAP               0402-CAP         BUG                   1
+C22      1                         CAP0402-CAP               0402-CAP         BUG                   1
+C23      0.1                       CAP0402-CAP               0402-CAP         BUG                   1
+C24      0.47u                     CAP0805                   0805             BUG                   1
+C25      0.1                       CAP0402-CAP               0402-CAP         BUG                   1
+C26      0.1                       CAP0402-CAP               0402-CAP         BUG                   1
+C27      0.47                      CAP0805                   0805             BUG                   1
+C28      4.7n                      CAP0805                   0805             BUG                   1
+C29      0.1                       CAP0402-CAP               0402-CAP         BUG                   1
+C30      100u                      CAP_POLD                  PANASONIC_D      BUG                   1
+C31      0.1                       CAP0402-CAP               0402-CAP         BUG                   1
+C32      100u                      CAP_POLD                  PANASONIC_D      BUG                   1
+C35      100u                      CAP_POLD                  PANASONIC_D      BUG                   1
+D1       50WQ10FNPBF               DIODE_COMMON_CAT-DPAK     V-REG_DPACK      BUG                   1
+D2       SMBJ36CA                  DIODE-TVS-SMB             SMB-DIODE        BUG                   1
+D3       MBRS540T3G                DIODESMC/DO-214AB         SMC              SparkFun-DiscreteSemi 1
+F1       MF-MSMF110/16-2           PTCFUSE-1812              1812             adafruit              1
+IC1      LM22678                   LM22678                   TO-263           BUG                   1
+IC2      ATMEL-AT24C02B-SS         ATMEL-AT24C02B-SS         SOIC8            BUG                   1
+J0       USB_MINIB_SHIELD-10118193 USB_MINIB_SHIELD-10118193 10118193         BUG                   1
+J1       USB-A-S-RA-VERT           USB-A-S-RA-VERT           USB-A-TH-VERT    BUG                   1
+J2       USB-A-S-RA-VERT           USB-A-S-RA-VERT           USB-A-TH-VERT    BUG                   1
+J3       USB-A-S-RA-VERT           USB-A-S-RA-VERT           USB-A-TH-VERT    BUG                   1
+J4       USB-A-S-RA-VERT           USB-A-S-RA-VERT           USB-A-TH-VERT    BUG                   1
+J5       USB-A-S-RA-VERT           USB-A-S-RA-VERT           USB-A-TH-VERT    BUG                   1
+J6       USB-A-S-RA-VERT           USB-A-S-RA-VERT           USB-A-TH-VERT    BUG                   1
+J7       USB-A-S-RA-VERT           USB-A-S-RA-VERT           USB-A-TH-VERT    BUG                   1
+J8       Audio INPUT               AUDIO-JACK-4PSWSJ-43515   SJ-4351X         BUG                   1
+J9       Audio OUTPUT              AUDIO-JACK-4PSWSJ-43515   SJ-4351X         BUG                   1
+J10      IIC                       M04PTH                    1X04             SparkFun-Connectors   1
+JP1      Power                     M022-1445055-2            2-1445055-2      BUG                   1
+L1       SRR1208-6R5ML             INDUCTORSRR1208           SRR1208          BUG                   1
+LED1     LED_2X_COMMON_ANODE       LED_2X_COMMON_ANODE       LED_DUAL_3MMX1MM BUG                   1
+LED2     LED_2X_COMMON_ANODE       LED_2X_COMMON_ANODE       LED_DUAL_3MMX1MM BUG                   1
+LED3     LED_2X_COMMON_ANODE       LED_2X_COMMON_ANODE       LED_DUAL_3MMX1MM BUG                   1
+LED4     LED_2X_COMMON_ANODE       LED_2X_COMMON_ANODE       LED_DUAL_3MMX1MM BUG                   1
+LED5     LED_2X_COMMON_ANODE       LED_2X_COMMON_ANODE       LED_DUAL_3MMX1MM BUG                   1
+LED6     LED_2X_COMMON_ANODE       LED_2X_COMMON_ANODE       LED_DUAL_3MMX1MM BUG                   1
+LED7     LED_2X_COMMON_ANODE       LED_2X_COMMON_ANODE       LED_DUAL_3MMX1MM BUG                   1
+LED8                               LED0603                   LED-0603         BUG                   1
+LED9                               LED0603                   LED-0603         BUG                   1
+LED10                              LED0603                   LED-0603         BUG                   1
+LED11                              LED0603                   LED-0603         BUG                   1
+LED12                              LED0603                   LED-0603         BUG                   1
+LED13                              LED0603                   LED-0603         BUG                   1
+LED14                              LED0603                   LED-0603         BUG                   1
+LED16                              LED0603                   LED-0603         BUG                   1
+LED17                              LED0603                   LED-0603         BUG                   1
+R1       110                       RESISTOR0402-RES          0402-RES         BUG                   1
+R2       110                       RESISTOR0402-RES          0402-RES         BUG                   1
+R3       110                       RESISTOR0402-RES          0402-RES         BUG                   1
+R4       110                       RESISTOR0402-RES          0402-RES         BUG                   1
+R5       110                       RESISTOR0402-RES          0402-RES         BUG                   1
+R6       110                       RESISTOR0402-RES          0402-RES         BUG                   1
+R7       110                       RESISTOR0402-RES          0402-RES         BUG                   1
+R8       110                       RESISTOR0402-RES          0402-RES         BUG                   1
+R9       330                       RESISTOR0402-RES          0402-RES         BUG                   1
+R10      330                       RESISTOR0402-RES          0402-RES         BUG                   1
+R11      330                       RESISTOR0402-RES          0402-RES         BUG                   1
+R12      330                       RESISTOR0402-RES          0402-RES         BUG                   1
+R13      330                       RESISTOR0402-RES          0402-RES         BUG                   1
+R14      12k-1%                    RESISTOR0402-RES          0402-RES         BUG                   1
+R15      10k                       RESISTOR0402-RES          0402-RES         BUG                   1
+R16      DNP                       RESISTOR0402-RES          0402-RES         BUG                   1
+R17      100k                      RESISTOR0402-RES          0402-RES         BUG                   1
+R18      100k                      RESISTOR0402-RES          0402-RES         BUG                   1
+R19      1M                        RESISTOR0402-RES          0402-RES         BUG                   1
+R20      330                       RESISTOR0402-RES          0402-RES         BUG                   1
+R21      330                       RESISTOR0402-RES          0402-RES         BUG                   1
+R22      10k                       RESISTOR0402-RES          0402-RES         BUG                   1
+R23      100k                      RESISTOR0402-RES          0402-RES         BUG                   1
+R24      330                       RESISTOR0402-RES          0402-RES         BUG                   1
+R25      10k                       RESISTOR0402-RES          0402-RES         BUG                   1
+R26      100k                      RESISTOR0402-RES          0402-RES         BUG                   1
+R27      DNP                       RESISTOR0402-RES          0402-RES         BUG                   1
+R28      10k                       RESISTOR0402-RES          0402-RES         BUG                   1
+R29      330                       RESISTOR0402-RES          0402-RES         BUG                   1
+R30      10k                       RESISTOR0402-RES          0402-RES         BUG                   1
+R31      110                       RESISTOR0402-RES          0402-RES         BUG                   1
+R32      110                       RESISTOR0402-RES          0402-RES         BUG                   1
+R33      110                       RESISTOR0402-RES          0402-RES         BUG                   1
+R34      110                       RESISTOR0402-RES          0402-RES         BUG                   1
+R35      124k                      RESISTOR0402-RES          0402-RES         BUG                   1
+R35B     R_ID                      RESISTORPTH-1/4W          AXIAL-0.4        BUG                   1
+R36      110                       RESISTOR0402-RES          0402-RES         BUG                   1
+R37      110                       RESISTOR0402-RES          0402-RES         BUG                   1
+R38      1M                        RESISTOR0805-RES          0805             BUG                   1
+R39      0                         RESISTOR0402-RES          0402-RES         BUG                   1
+R40      DNP                       RESISTOR0402-RES          0402-RES         BUG                   1
+R41      DNP                       RESISTOR0402-RES          0402-RES         BUG                   1
+R42      0                         RESISTOR0402-RES          0402-RES         BUG                   1
+R43      DNP                       RESISTOR0402-RES          0402-RES         BUG                   1
+R44      0                         RESISTOR0402-RES          0402-RES         BUG                   1
+R45      DNP                       RESISTOR0402-RES          0402-RES         BUG                   1
+R46      0                         RESISTOR0402-RES          0402-RES         BUG                   1
+R47      DNP                       RESISTOR0402-RES          0402-RES         BUG                   1
+R48      0                         RESISTOR0402-RES          0402-RES         BUG                   1
+R49      DNP                       RESISTOR0402-RES          0402-RES         BUG                   1
+R50      0                         RESISTOR0402-RES          0402-RES         BUG                   1
+R51      DNP                       RESISTOR0402-RES          0402-RES         BUG                   1
+R52      0                         RESISTOR0402-RES          0402-RES         BUG                   1
+SJ1      OPEN                      SOLDERJUMPERNO            SJ_2S-NO         SparkFun-Passives     1
+SJ2      CLOSED                    SOLDERJUMPERTRACE         SJ_2S-TRACE      SparkFun-Passives     1
+SJ3      CLOSED                    SOLDERJUMPERTRACE         SJ_2S-TRACE      SparkFun-Passives     1
+TP1      RESET                     TEST-POINT3               PAD.03X.03       BUG                   1
+TP2      +5V                       TEST-POINT3               PAD.03X.03       BUG                   1
+TP3      +12V                      TEST-POINT3               PAD.03X.03       BUG                   1
+TP4      VBUS                      TEST-POINT3               PAD.03X.03       BUG                   1
+TP5      CFG1                      TEST-POINT3               PAD.03X.03       BUG                   1
+TP6      CFG2                      TEST-POINT3               PAD.03X.03       BUG                   1
+TP7      ERR0                      TEST-POINT3               PAD.03X.03       BUG                   1
+TP8      PWR0                      TEST-POINT3               PAD.03X.03       BUG                   1
+TP9      ERR1                      TEST-POINT3               PAD.03X.03       BUG                   1
+TP10     PWR1                      TEST-POINT3               PAD.03X.03       BUG                   1
+TP11     ERR2                      TEST-POINT3               PAD.03X.03       BUG                   1
+TP12     ERR3                      TEST-POINT3               PAD.03X.03       BUG                   1
+TP13     PWR2                      TEST-POINT3               PAD.03X.03       BUG                   1
+TP14     PWR3                      TEST-POINT3               PAD.03X.03       BUG                   1
+TP15     ERR4                      TEST-POINT3               PAD.03X.03       BUG                   1
+TP16     PWR4                      TEST-POINT3               PAD.03X.03       BUG                   1
+TP17     ERR5                      TEST-POINT3               PAD.03X.03       BUG                   1
+TP18     ERR6                      TEST-POINT3               PAD.03X.03       BUG                   1
+TP19     PWR5                      TEST-POINT3               PAD.03X.03       BUG                   1
+TP20     PWR6                      TEST-POINT3               PAD.03X.03       BUG                   1
+U1                                 MIC2026                   SOIC8            BUG                   1
+U2                                 MIC2026                   SOIC8            BUG                   1
+U3       USB2517                   USB2517                   QFN-64-PAD       BUG                   1
+U4       TLE4284DV33               V_REG_317DPACK            V-REG_DPACK      BUG                   1
+U6                                 MIC2026                   SOIC8            BUG                   1
+U7                                 MIC2026                   SOIC8            BUG                   1
+Y1       24M                       CRYSTAL                   HC49USX          BUG                   1
