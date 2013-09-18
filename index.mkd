@@ -1,0 +1,7 @@
+## Design for Manufacturing Optimizations
+
+The close corners created by the walls to support the USB accessories could pose
+a problem. Because the plastic narrows to a small chute and then widens, this
+could great some plastic gas effects. One suggestion is to remove the octagon
+from the center of the Dock. This would mean that the USB accessories are just
+supported on either side, but perhaps this would be sufficient.
