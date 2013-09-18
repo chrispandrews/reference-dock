@@ -1,0 +1,25 @@
+**USB**
+
+* Maintain a transfer rate of at least 30MB/s for a sustained 100MB transfer over USB with no transmission errors
+* Measure sustained USB throughput when all USB ports are pushing data over 12 hours
+* Using USB debugger, verify the expected USB protocol sequence when plugging/unplugging
+
+**Power**
+
+* Verify available current on each port when all ports draw power
+* Verify voltage/current stays within limits at all ports through connect/disconnect cycles
+* Verify an Android device attached to center USB port can both act as a USB OTG host and connect to the hub as well as be charged with 5v power.
+
+**Physical**
+
+* Fits into a variety of cup holders
+* Robust connection between cup holder piece and top piece
+* Secure mechanical fit between iJoeys and K-board, consider yield point and Young's Modulus of desired material
+* K-board must be able to go through 100 attach/detach procedures with the cup holder piece with no visible wear
+* K-board must be able to go through 100 attach/detach procedures with the iJoey with no visible wear
+
+**Mechanical**
+
+* Designed for injection molding --> Constant wall thickness, appropriate minimum thickness material (0.050" for ABS), draft angles, slide consideration
+* Robust attachment and mating features between housing pieces
+* Appropriate fit in specified vehicles (Focus, Flex, F-150, Explorer)
