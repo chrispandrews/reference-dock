@@ -1,0 +1,16 @@
+iJoey Design Guidelines
+=======================
+
+Below is a list of specifications for designing OpenXC iJoeys. These parameters
+are specific for the components that get plugged into the size-specific Dock
+ports.
+
+**Outer Dimensions:**
+
+* housing width: **16mm**
+
+**Wall Thicknesses:**
+
+* minimum case thickness: **2.54mm**
+* minimum overlap thickness: **1.27mm** (overlap where two parts come together
+  like clam shells)
