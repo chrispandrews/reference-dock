@@ -11,6 +11,10 @@ tablet or phone. Since each accessory uses USB to communicate with the host, the
 Dock is essentially a USB hub. The Dock receives power from the vehicle, and
 regulates this power to a steady +5V for use by the accessory.
 
+There is a [gallery of
+photos](https://plus.google.com/photos/108408483770573977605/albums/5989365070748059233)
+of the prototype dock.
+
 ### Buttons, Headers, Jumpers
 
 *	JP2 - This jumper connects the +5V pin of the USB Micro connector to the +5V
