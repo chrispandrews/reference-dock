@@ -1,6 +1,11 @@
 OpenXC Dock
 ===========
 
+This repository is a part of the [OpenXC][] project.
+
+This repository contains the documentation and open source design files for an
+example OpenXC accessory dock, originally created by Ford.
+
 The OpenXC Dock is a hub for connecting multiple USB accessories to an Android
 tablet or phone. Since each accessory uses USB to communicate with the host, the
 Dock is essentially a USB hub. The Dock receives power from the vehicle, and
@@ -42,3 +47,13 @@ regulates this power to a steady +5V for use by the accessory.
 	indicate the fault. This does not occur when no host has been connected, so
 	it's possible that a malfunctioning accessory will continue to draw ~500mA
 	from the vehicle without alerting the user.
+
+## License
+
+Copyright (c) 2014 Ford Motor Company
+
+The electrical and mechanical designs in this repository are available under the
+[Creative Commons Attribution 4.0
+International](http://creativecommons.org/licenses/by/4.0/deed.en_US) license.
+
+[OpenXC]: http://openxcplatform.com
